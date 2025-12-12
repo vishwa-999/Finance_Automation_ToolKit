@@ -1,0 +1,87 @@
+Account Transactions,,,,,,,,,,,,
+Demo Company (UK),,,,,,,,,,,,
+For the period 1 April 2025 to 31 December 2025,,,,,,,,,,,,
+,,,,,,,,,,,,
+Date,Source,Description,Invoice Number,Reference,Debit,Credit,Running Balance,Gross,Net,VAT,Account Code,Account Type
+,,,,,,,,,,,,
+Accounts Payable,,,,,,,,,,,,
+Opening Balance,,,,,0.00,0.00,0.00,0.00,0.00,0.00,,
+02 Apr 2025,Payable Payment,Facebook Ads - Ridgeway,,FB-2025-881,1500,0.00,"(1,500.00)",(91.00),(91.00),0.00,300.00,Liability
+05 Apr 2025,Payable Payment,Facebook Ads - Rex,,FB-2025-882,450,0.00,"(1,950.00)",(91.00),(91.00),0.00,300.00,Liability
+12 Apr 2025,Payable Payment,Facebook Ads - Hamilton,,FB-2025-883,2100,0.00,"(4,050.00)",(91.00),(91.00),0.00,300.00,Liability
+15 Apr 2025,Payable Payment,Facebook Ads - Future,,FB-2025-884,3000,0.00,"(7,050.00)",(91.00),(91.00),0.00,300.00,Liability
+20 Apr 2025,Payable Payment,Facebook Ads - Ridgeway,,FB-2025-885,1200,0.00,"(8,250.00)",(91.00),(91.00),0.00,300.00,Liability
+15 May 2025,Payable Payment,Payment: PowerDirect,,RPT445-1,96.25,0.00,"(1,596.25)",(96.25),(96.25),0.00,800,Liability
+14 Jun 2025,Payable Payment,Payment: PowerDirect,,RPT445-1,100.60,0.00,"(1,696.85)",(100.60),(100.60),0.00,800,Liability
+15 Jul 2025,Payable Payment,Payment: PowerDirect,,RPT445-1,105.75,0.00,"(1,802.60)",(105.75),(105.75),0.00,800,Liability
+14 Aug 2025,Payable Payment,Payment: PowerDirect,,RPT445-1,106.50,0.00,"(1,909.10)",(106.50),(106.50),0.00,800,Liability
+14 Sep 2025,Payable Payment,Payment: PowerDirect,,RPT445-1,119.08,0.00,"(2,028.18)",(119.08),(119.08),0.00,800,Liability
+16 Sep 2025,Payable Payment,Payment: PC Complete,,720-1,"1,900.00",0.00,"(3,928.18)","(1,900.00)","(1,900.00)",0.00,800,Liability
+16 Sep 2025,Payable Payment,Payment: Truxton Property Management,,RPT469-1,"1,181.25",0.00,"(5,109.43)","(1,181.25)","(1,181.25)",0.00,800,Liability
+16 Sep 2025,Payable Payment,Payment: Net Connect,,RPT489-1,44.92,0.00,"(5,154.35)",(44.92),(44.92),0.00,800,Liability
+16 Sep 2025,Payable Payment,Payment: Xero,,RPT402-1,56.35,0.00,"(5,210.70)",(56.35),(56.35),0.00,800,Liability
+05 Oct 2025,Payable Credit Note Allocation,Swanston Security,,RPT429-1,25.44,0.00,"(5,236.14)",(25.44),(25.44),0.00,800,Liability
+05 Oct 2025,Payable Credit Note,Swanston Security,RPT429-1,RPT429-1,25.44,0.00,"(5,261.58)",(25.44),(25.44),0.00,800,Liability
+09 Oct 2025,Payable Credit Note,PC Complete,720-2,720-2,270.36,0.00,"(5,531.94)",(270.36),(270.36),0.00,800,Liability
+09 Oct 2025,Payable Credit Note Allocation,PC Complete,,720-2,270.36,0.00,"(5,802.30)",(270.36),(270.36),0.00,800,Liability
+16 Oct 2025,Payable Payment,Payment: Truxton Property Management,,RPT469-1,"1,181.25",0.00,"(6,983.55)","(1,181.25)","(1,181.25)",0.00,800,Liability
+16 Oct 2025,Payable Payment,Payment: PC Complete,,720-2,"1,463.88",0.00,"(8,447.43)","(1,463.88)","(1,463.88)",0.00,800,Liability
+12 Nov 2025,Payable Payment,Payment: Net Connect,,RPT489-1,46.82,0.00,"(8,494.25)",(46.82),(46.82),0.00,800,Liability
+12 Nov 2025,Payable Payment,Payment: PowerDirect,,RPT445-1,108.60,0.00,"(8,602.85)",(108.60),(108.60),0.00,800,Liability
+12 Nov 2025,Payable Payment,Payment: Net Connect,,RPT489-1,51.50,0.00,"(8,654.35)",(51.50),(51.50),0.00,800,Liability
+13 Nov 2025,Payable Payment,Payment: Swanston Security,,RPT429-1,59.54,0.00,"(8,713.89)",(59.54),(59.54),0.00,800,Liability
+13 Nov 2025,Payable Payment,Payment: Truxton Property Management,,RPT469-1,"1,181.25",0.00,"(9,895.14)","(1,181.25)","(1,181.25)",0.00,800,Liability
+14 Nov 2025,Payable Payment,Payment: Xero,,RPT402-1,56.35,0.00,"(9,951.49)",(56.35),(56.35),0.00,800,Liability
+26 Nov 2025,Payable Payment,Payment: Hoyt Productions,,08-4123,"5,953.75",0.00,"(15,905.24)","(5,953.75)","(5,953.75)",0.00,800,Liability
+27 Nov 2025,Payable Payment,Payment: Carlton Functions,,Dep,"1,500.00",0.00,"(17,405.24)","(1,500.00)","(1,500.00)",0.00,800,Liability
+01 Dec 2025,Payable Payment,Payment: Truxton Property Management,,RPT469-1,"1,181.25",0.00,"(18,586.49)","(1,181.25)","(1,181.25)",0.00,800,Liability
+14 Dec 2025,Payable Payment,Payment: Gateway Motors,,449,411.35,0.00,"(18,997.84)",(411.35),(411.35),0.00,800,Liability
+10 Dec 2025,Payable Invoice,Wish Sharma,Expense Claims,Expense Claims,0.00,18.90,"(18,978.94)",18.90,18.90,0.00,800,Liability
+05 Oct 2025,Payable Credit Note Allocation,Swanston Security,,RPT429-1,0.00,25.44,"(18,953.50)",25.44,25.44,0.00,800,Liability
+06 Sep 2025,Payable Invoice,Net Connect,RPT489-1,RPT489-1,0.00,44.92,"(18,908.58)",44.92,44.92,0.00,800,Liability
+07 Oct 2025,Payable Invoice,Net Connect,RPT489-1,RPT489-1,0.00,46.82,"(18,861.76)",46.82,46.82,0.00,800,Liability
+04 Nov 2025,Payable Invoice,Net Connect,RPT489-1,RPT489-1,0.00,51.50,"(18,810.26)",51.50,51.50,0.00,800,Liability
+05 Dec 2025,Payable Invoice,Net Connect,RPT489-1,RPT489-1,0.00,54.13,"(18,756.13)",54.13,54.13,0.00,800,Liability
+16 Sep 2025,Payable Invoice,Xero,RPT402-1,RPT402-1,0.00,56.35,"(18,699.78)",56.35,56.35,0.00,800,Liability
+17 Oct 2025,Payable Invoice,Xero,RPT402-1,RPT402-1,0.00,56.35,"(18,643.43)",56.35,56.35,0.00,800,Liability
+14 Nov 2025,Payable Invoice,Xero,RPT402-1,RPT402-1,0.00,56.35,"(18,587.08)",56.35,56.35,0.00,800,Liability
+02 Oct 2025,Payable Invoice,Swanston Security,RPT429-1,RPT429-1,0.00,59.54,"(18,527.54)",59.54,59.54,0.00,800,Liability
+30 Oct 2025,Payable Invoice,Swanston Security,RPT429-1,RPT429-1,0.00,59.54,"(18,468.00)",59.54,59.54,0.00,800,Liability
+30 Nov 2025,Payable Invoice,Swanston Security,RPT429-1,RPT429-1,0.00,59.54,"(18,408.46)",59.54,59.54,0.00,800,Liability
+04 Apr 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,91.00,"(18,317.46)",91.00,91.00,0.00,800,Liability
+05 May 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,96.25,"(18,221.21)",96.25,96.25,0.00,800,Liability
+04 Jun 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,100.60,"(18,120.61)",100.60,100.60,0.00,800,Liability
+05 Jul 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,105.75,"(18,014.86)",105.75,105.75,0.00,800,Liability
+04 Aug 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,106.50,"(17,908.36)",106.50,106.50,0.00,800,Liability
+02 Nov 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,108.60,"(17,799.76)",108.60,108.60,0.00,800,Liability
+03 Dec 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,108.60,"(17,691.16)",108.60,108.60,0.00,800,Liability
+04 Sep 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,119.08,"(17,572.08)",119.08,119.08,0.00,800,Liability
+09 Oct 2025,Payable Invoice,MCO Cleaning Services,408,408,0.00,119.08,"(17,453.00)",119.08,119.08,0.00,800,Liability
+06 Dec 2025,Payable Invoice,Young Bros Transport,ABC,ABC,0.00,125.03,"(17,327.97)",125.03,125.03,0.00,800,Liability
+30 Nov 2025,Payable Invoice,Bayside Club,,,0.00,130.00,"(17,197.97)",130.00,130.00,0.00,800,Liability
+05 Oct 2025,Payable Invoice,PowerDirect,RPT445-1,RPT445-1,0.00,135.85,"(17,062.12)",135.85,135.85,0.00,800,Liability
+09 Dec 2025,Payable Invoice,Capital Cab Co,CS815,CS815,0.00,242.00,"(16,820.12)",242.00,242.00,0.00,800,Liability
+09 Oct 2025,Payable Credit Note Allocation,PC Complete,,720-2,0.00,270.36,"(16,549.76)",270.36,270.36,0.00,800,Liability
+07 Dec 2025,Payable Invoice,Gateway Motors,449,449,0.00,411.35,"(16,138.41)",411.35,411.35,0.00,800,Liability
+07 Dec 2025,Payable Invoice,Bayside Wholesale,GB1-White,GB1-White,0.00,840.00,"(15,298.41)",840.00,840.00,0.00,800,Liability
+07 Oct 2025,Payable Invoice,Central Copiers,945-Ocon,945-Ocon,0.00,"1,063.56","(14,234.85)","1,063.56","1,063.56",0.00,800,Liability
+02 Sep 2025,Payable Invoice,Truxton Property Management,RPT469-1,RPT469-1,0.00,"1,181.25","(13,053.60)","1,181.25","1,181.25",0.00,800,Liability
+03 Oct 2025,Payable Invoice,Truxton Property Management,RPT469-1,RPT469-1,0.00,"1,181.25","(11,872.35)","1,181.25","1,181.25",0.00,800,Liability
+31 Oct 2025,Payable Invoice,Truxton Property Management,RPT469-1,RPT469-1,0.00,"1,181.25","(10,691.10)","1,181.25","1,181.25",0.00,800,Liability
+01 Dec 2025,Payable Invoice,Truxton Property Management,RPT469-1,RPT469-1,0.00,"1,181.25","(9,509.85)","1,181.25","1,181.25",0.00,800,Liability
+05 Dec 2025,Payable Invoice,ABC Furniture,710,710,0.00,"1,200.00","(8,309.85)","1,200.00","1,200.00",0.00,800,Liability
+17 Nov 2025,Payable Invoice,Carlton Functions,Dep,Dep,0.00,"1,500.00","(6,809.85)","1,500.00","1,500.00",0.00,800,Liability
+06 Oct 2025,Payable Invoice,PC Complete,720-2,720-2,0.00,"1,734.24","(5,075.61)","1,734.24","1,734.24",0.00,800,Liability
+06 Sep 2025,Payable Invoice,PC Complete,720-1,720-1,0.00,"1,900.00","(3,175.61)","1,900.00","1,900.00",0.00,800,Liability
+24 Oct 2025,Payable Invoice,SMART Agency,SM0195,SM0195,0.00,"2,000.00","(1,175.61)","2,000.00","2,000.00",0.00,800,Liability
+24 Nov 2025,Payable Invoice,SMART Agency,SM0210,SM0210,0.00,"2,500.00","1,324.39","2,500.00","2,500.00",0.00,800,Liability
+16 Nov 2025,Payable Invoice,Hoyt Productions,08-4123,08-4123,0.00,"5,953.75","7,278.14","5,953.75","5,953.75",0.00,800,Liability
+Total Accounts Payable,,,,,"25,747.84","26,275.98","7,278.14","8,323.14","8,323.14",0.00,,
+Closing Balance,,,,,0.00,"8,687.14","7,278.14",0.00,0.00,0.00,,
+,,,,,,,,,,,,
+Purchases,,,,,,,,,,,,
+17 Nov 2025,Payable Invoice,Carlton Functions - Deposit on venue hire for client function,Dep,Dep,"1,250.00",0.00,"1,250.00","1,500.00","1,250.00",250.00,300,Expense
+07 Dec 2025,Payable Invoice,Bayside Wholesale - Golf balls - white single,GB1-White,GB1-White,700.00,0.00,"1,950.00",840.00,700.00,140.00,300,Expense
+Total Purchases,,,,,"1,950.00",0.00,"1,950.00","2,340.00","1,950.00",390.00,,
+,,,,,,,,,,,,
+Total,,,,,"27,697.84","26,275.98","1,421.86","10,663.14","10,273.14",390.00,,
